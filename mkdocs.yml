@@ -39,7 +39,7 @@ markdown_extensions:
   - markdown.extensions.footnotes
   - markdown.extensions.meta
   - markdown.extensions.toc(permalink=true)
-  - markdown.extensions.pymdownx.arithmatex
+  - pymdown.arithmatex
 
 # Page tree
 pages:
